@@ -20,3 +20,6 @@ def ttttt(request):
 
 def qqqqq(request):
     return render()
+
+def cdfgfed(request):
+    return render()
