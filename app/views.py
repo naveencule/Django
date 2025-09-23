@@ -10,3 +10,7 @@ def addnew():
 def hello(request):
     return render()
 
+
+
+def function(request):
+    return render(request, 'index.html')
