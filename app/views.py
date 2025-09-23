@@ -11,3 +11,7 @@ def ttttt(request):
 
 def qqqqq(request):
     return render()
+
+
+def aaa(request):
+    return render()
