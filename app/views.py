@@ -4,3 +4,6 @@ from django.shortcuts import render
 
 def hello(request):
     return render()
+
+def ttttt(request):
+    return render()
