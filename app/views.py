@@ -6,3 +6,6 @@ def hai():
 
 def addnew():
     return render()
+
+def dfrtyy():
+    return render()
