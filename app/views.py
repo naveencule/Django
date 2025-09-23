@@ -6,4 +6,3 @@ def hai():
 
 def hello(request):
     return render()
-
