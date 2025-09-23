@@ -7,3 +7,7 @@ def hello(request):
 
 def ttttt(request):
     return render()
+
+
+def qqqqq(request):
+    return render()
