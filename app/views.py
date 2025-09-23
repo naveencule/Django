@@ -6,20 +6,3 @@ def hai():
 
 def addnew():
     return render()
-
-def hello(request):
-    return render()
-
-
-def function(request):
-    return render(request, 'index.html')
-
-def ttttt(request):
-    return render()
-
-
-def qqqqq(request):
-    return render()
-
-def cdfgfed(request):
-    return render()
