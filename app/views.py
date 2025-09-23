@@ -13,3 +13,10 @@ def hello(request):
 
 def function(request):
     return render(request, 'index.html')
+
+def ttttt(request):
+    return render()
+
+
+def qqqqq(request):
+    return render()
