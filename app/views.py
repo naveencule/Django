@@ -4,6 +4,9 @@ from django.shortcuts import render
 def hai():
     return render()
 
+def addnew():
+    return render()
+
 def hello(request):
     return render()
 
